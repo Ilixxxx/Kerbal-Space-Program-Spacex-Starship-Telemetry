@@ -12,5 +12,5 @@ You can enable / disable the telemetry by clicking on the mod icon in the toolba
 The telemetry stay enable after clicking F2.
 
 # This mod has no dependencies and no unsupported mod.
-<img width="1918" height="1079" alt="Capture d&#39;écran 2026-10-20 182805" src="https://github.com/user-attachments/assets/453ffe6b-7a47-4e7c-8dff-327e28dda171" />
+<img width="1920" height="1080" alt="Kerbal Space Program Screenshot 2026 10 21 - 00 39 12 72" src="https://github.com/user-attachments/assets/f9274848-37b6-4404-850a-ab36e936ed93" />
 <img width="1920" height="1080" alt="Kerbal Space Program Screenshot 2026 10 21 - 00 36 41 08" src="https://github.com/user-attachments/assets/d506d17f-199e-430e-b9fe-f56f2733f0b3" />
