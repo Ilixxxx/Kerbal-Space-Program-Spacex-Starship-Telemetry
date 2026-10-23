@@ -6,9 +6,8 @@ Contact @Jxst_aviation on discord for more information.
  
 ## Code
 
-The full source code is in the [`Source/`](Source) folder of this repository and is released under the
+The full source code is in the 'Source/' folder of this repository and is released under the
 [MIT license](LICENSE): anyone can read, modify and redistribute it. Contributions and pull requests are welcome.
-(Every release on GitHub also comes with an automatic "Source code" archive.)
 
 ## Features
 
