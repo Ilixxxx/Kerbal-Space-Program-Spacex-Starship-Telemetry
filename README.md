@@ -61,3 +61,8 @@ options in the same tab fix the ship engine dot mapping.
 
 - Physical Range Extender: Without it, you'll lost the telemetry of the ship/booster few seconds after separation due to range limits of KSP.
 - kOS: With it, you can automatize the whole flight / the booster while your managing your ship.
+<img width="1920" height="1080" alt="Kerbal Space Program Screenshot 2026 10 24 - 00 19 18 51" src="https://github.com/user-attachments/assets/dcbefd0d-5ff7-45eb-b63b-8b3f1f7f4a1d" />
+<img width="1920" height="1080" alt="Kerbal Space Program Screenshot 2026 10 23 - 15 28 45 99" src="https://github.com/user-attachments/assets/204fe0ae-fb42-4f66-b6e3-e19f19e6acaf" />
+<img width="1920" height="1080" alt="Kerbal Space Program Screenshot 2026 10 23 - 00 02 15 60" src="https://github.com/user-attachments/assets/93de6595-f5ad-4260-a239-36b9ec46d1c4" />
+<img width="1920" height="1080" alt="Kerbal Space Program Screenshot 2026 10 22 - 14 36 39 56" src="https://github.com/user-attachments/assets/af9869ca-ecd5-4e87-9c08-d51e500e33f7" />
+
