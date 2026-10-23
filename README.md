@@ -57,25 +57,7 @@ If something is not detected or the wrong dot lights up: open the control panel 
 *Write detected engines to KSP.log* and look for the `ENGINE DUMP` block in `KSP.log`. The *Rotate / Mirror*
 options in the same tab fix the ship engine dot mapping.
 
-## Building from source (developers only)
+## Recommanded mods
 
-Players do **not** need this.
-
-- **Automatically on GitHub:** push a tag like `v1.0.0` (`git tag v1.0.0 && git push --tags`). The workflow in
-  `.github/workflows/release.yml` builds `StarshipTelemetry.dll` against the KSP 1.12.5 reference assemblies and
-  publishes the release zip. It can also be started by hand from the *Actions* tab.
-- **Locally:**
-  ```
-  cd Source
-  dotnet build -c Release "-p:KSPDir=C:/path/to/Kerbal Space Program"
-  ```
-  The DLL is written to `GameData/StarshipTelemetry/Plugins/`.
-- **Textures:** `Tools/bake_atlas.py` regenerates `GameData/StarshipTelemetry/Textures/atlas.png` and
-  `atlas.txt` (needs Python with Pillow and numpy). The attitude icons come from `Tools/icons/*.png`
-  (nose up, dark interior); replace a PNG and run the script again to change an icon. If a PNG is missing, the mod
-  draws a vector fallback shape.
-
-## Credits
-
-- Code: MIT license - see `LICENSE`.
-- Font: **D-DIN Bold** (Datto), SIL Open Font License 1.1 - see `D-DIN-OFL-1.1.txt`.
+- Physical Range Extender: Without it, you'll lost the telemetry of the ship/booster few seconds after separation due to range limits of KSP.
+- kOS: With it, you can automatize the whole flight / the booster while your managing your ship.
