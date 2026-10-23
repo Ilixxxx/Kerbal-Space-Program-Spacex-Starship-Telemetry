@@ -1,0 +1,8 @@
+# build output
+Source/bin/
+Source/obj/
+*.user
+# written by the mod at runtime (user settings)
+GameData/StarshipTelemetry/PluginData/
+# release packages
+*.zip
