@@ -18,13 +18,6 @@ This mod is a re-creation of the SpaceX telemetry during classical starship laun
 - Kerbal Space Program **1.12.x**
 - Starship Expansion Project, latest version (V3 vehicules)
 
-## Installation
-
-1. Go to the **[Releases](../../releases)** page and download `StarshipTelemetry-<version>.zip`
-   (use this file, **not** the automatic "Source code" zip).
-2. Unzip it. You get a single folder named `StarshipTelemetry`.
-3. Move that folder into `Kerbal Space Program/GameData/`.
-
 ## Usage
 
 - The telemetry is **hidden when KSP starts**. In flight, click the rocket icon in the application launcher
