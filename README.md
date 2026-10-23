@@ -1,13 +1,10 @@
-# Starship Telemetry (KSP)
+## Disclaimer
 
-A "Starship Flight" style telemetry overlay for **Kerbal Space Program 1.12.x**: Super Heavy engine cluster and
-speed on the left, Starship engines and speed on the right, a live T+ clock with a scrolling milestone timeline
-in the middle, and an attitude icon for the stack / booster / ship.
-
-> Fan project, not affiliated with SpaceX. The look of the overlay and the attitude icons are inspired by
-> SpaceX's webcast telemetry.
-
-## Open source
+I do not have a single coding experience into Kerbal Space Program.
+This is "my" first ever mod 100% coded with the free plan of [claude.ai](https://claude.ai/)
+Contact @Jxst_aviation on discord for more information.
+ 
+## Code
 
 The full source code is in the [`Source/`](Source) folder of this repository and is released under the
 [MIT license](LICENSE): anyone can read, modify and redistribute it. Contributions and pull requests are welcome.
@@ -15,20 +12,12 @@ The full source code is in the [`Source/`](Source) folder of this repository and
 
 ## Features
 
-- Super Heavy: 33 Raptor dots (3 / 5 / 13 / 33 engine modes), fuel ring, speed gauge
-- Starship: 3 sea-level + 3 vacuum Raptors (each real engine lights its own dot), fuel ring, speed / altitude gauges
-- Attitude icon (stack, booster or ship) that follows the pitch of the vehicle
-- T+ clock: auto (starts at liftoff), game MET, or manual countdown
-- Timeline that starts as a straight line and gradually curves, with milestones (Liftoff, Max Q, Stage Sep,
-  Super Heavy Landing, SECO, Entry, Landing...) that are detected in game, editable in game
-- Customisable mission name under the clock (e.g. `STARSHIP FLIGHT 15`)
-- Layout presets (Classic / Flight / Custom) with 4 configurable data slots
-- Keeps tracking the booster and the ship after separation, even when they are far apart
+This mod is a re-creation of the SpaceX telemetry during classical starship launches on Kerbal Space Program.
 
 ## Requirements
 
 - Kerbal Space Program **1.12.x**
-- A Starship / Super Heavy rocket whose engine parts can be recognised by name (see *Part names* below)
+- Starship Expansion Project, latest version (V3 vehicules)
 
 ## Installation
 
@@ -36,10 +25,6 @@ The full source code is in the [`Source/`](Source) folder of this repository and
    (use this file, **not** the automatic "Source code" zip).
 2. Unzip it. You get a single folder named `StarshipTelemetry`.
 3. Move that folder into `Kerbal Space Program/GameData/`.
-
-That's it: no compiling, no command line.
-To update, delete the old `GameData/StarshipTelemetry` folder and copy the new one
-(your settings live in `PluginData/settings.cfg` inside it, so keep that file if you want to keep them).
 
 ## Usage
 
